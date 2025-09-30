@@ -61,7 +61,7 @@
         "monitoring_type": 0,
         "private_settings": {}
     },
-    "current_scene": "Player Data",
+    "current_scene": "Lower HUD",
     "current_program_scene": "Lower HUD",
     "scene_order": [
         {
@@ -186,12 +186,12 @@
                             "pos": 0
                         },
                         {
-                            "pos": 383
+                            "pos": 776
                         }
                     ],
                     "macroElseActionSplitterPosition": [
                         {
-                            "pos": 351
+                            "pos": 744
                         },
                         {
                             "pos": 0
@@ -1835,16 +1835,16 @@
                 }
             ],
             "saveWindowGeo": false,
-            "windowPosX": 514,
-            "windowPosY": 223,
-            "windowWidth": 1000,
-            "windowHeight": 600,
+            "windowPosX": 140,
+            "windowPosY": 11,
+            "windowWidth": 1627,
+            "windowHeight": 993,
             "macroListMacroEditSplitterPosition": [
                 {
-                    "pos": 136
+                    "pos": 220
                 },
                 {
-                    "pos": 837
+                    "pos": 1380
                 }
             ],
             "version": "bf7fe71ae39a9a0a782a224dedda14513b97dfc2",
@@ -2003,13 +2003,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "Denathor",
-                "font": {
-                    "face": "Tungsten",
-                    "style": "Bold",
-                    "size": 256,
-                    "flags": 1
-                }
+                "text": "Denathor"
             },
             "mixers": 0,
             "sync": 0,
@@ -2035,13 +2029,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "Rapid",
-                "font": {
-                    "face": "Tungsten",
-                    "style": "Bold",
-                    "size": 256,
-                    "flags": 1
-                }
+                "text": "Rapid"
             },
             "mixers": 0,
             "sync": 0,
@@ -2067,13 +2055,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "Sword",
-                "font": {
-                    "face": "Tungsten",
-                    "style": "Bold",
-                    "size": 256,
-                    "flags": 1
-                }
+                "text": "Sword"
             },
             "mixers": 0,
             "sync": 0,
@@ -2099,13 +2081,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "Mobility",
-                "font": {
-                    "face": "Tungsten",
-                    "style": "Bold",
-                    "size": 256,
-                    "flags": 1
-                }
+                "text": "Mobility"
             },
             "mixers": 0,
             "sync": 0,
@@ -2131,13 +2107,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "Only35",
-                "font": {
-                    "face": "Tungsten",
-                    "style": "Bold",
-                    "size": 256,
-                    "flags": 1
-                }
+                "text": "Only35"
             },
             "mixers": 0,
             "sync": 0,
@@ -3637,13 +3607,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "2m2mc",
-                "font": {
-                    "face": "Tungsten",
-                    "style": "Bold",
-                    "size": 256,
-                    "flags": 1
-                }
+                "text": "2m2mc"
             },
             "mixers": 0,
             "sync": 0,
@@ -3669,13 +3633,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "SigmaKitten49",
-                "font": {
-                    "face": "Tungsten",
-                    "style": "Bold",
-                    "size": 256,
-                    "flags": 1
-                }
+                "text": "SigmaKitten49"
             },
             "mixers": 0,
             "sync": 0,
@@ -3701,13 +3659,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "5fire",
-                "font": {
-                    "face": "Tungsten",
-                    "style": "Bold",
-                    "size": 256,
-                    "flags": 1
-                }
+                "text": "5fire"
             },
             "mixers": 0,
             "sync": 0,
@@ -3733,13 +3685,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "5150",
-                "font": {
-                    "face": "Tungsten",
-                    "style": "Bold",
-                    "size": 256,
-                    "flags": 1
-                }
+                "text": "5150"
             },
             "mixers": 0,
             "sync": 0,
@@ -3765,13 +3711,7 @@
             "id": "text_gdiplus",
             "versioned_id": "text_gdiplus_v3",
             "settings": {
-                "text": "Delight",
-                "font": {
-                    "face": "Tungsten",
-                    "style": "Bold",
-                    "size": 256,
-                    "flags": 1
-                }
+                "text": "Delight"
             },
             "mixers": 0,
             "sync": 0,
